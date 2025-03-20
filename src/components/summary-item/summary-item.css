@@ -1,0 +1,34 @@
+.Items{
+    background-color: rgb(236, 208, 201);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 16rem;
+    height: 48px;
+    justify-content: space-between;
+    padding: 0px 12px 0px 12px;
+    border-radius: 12px;
+    
+}
+.Items-logo{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.nameItems{
+    font-weight: 500;
+    font-size: 15px;
+
+}
+.average{
+    color: gray;
+    font-weight: 600;
+    display: flex;
+    gap: 6px;
+    font-size: 15px;
+
+}
+.average :first-child{
+    color: hsl(224, 30%, 27%);
+
+}

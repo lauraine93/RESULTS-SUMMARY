@@ -1,0 +1,15 @@
+.comment{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.comment h1{
+    font-weight: 700;
+    font-size: 1.5rem;  
+}
+.comment p{
+    color: hsla(241, 100%, 89%, 0.712);
+    font-weight: 600;
+    font-size: 18px;
+   padding: 0;
+}

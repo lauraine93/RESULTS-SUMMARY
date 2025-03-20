@@ -1,0 +1,18 @@
+.contentt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 350px;
+    gap: 20px;
+}
+.side1Container{
+    background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+   width: 52%;
+      border-radius: 24px;
+
+}
+h2{
+    color: white;
+    margin-top: 24px;
+}
